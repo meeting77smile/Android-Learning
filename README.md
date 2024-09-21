@@ -1,2 +1,2 @@
 # Android_Learning
-本人在Android学习过程中的笔记
+本人在学习Android过程中记录的笔记
